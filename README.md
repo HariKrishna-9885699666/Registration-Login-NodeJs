@@ -1,4 +1,4 @@
-# CRUD - API's
+# NODE - RESTFUL API's
 
 `npm install`
 
