@@ -1,4 +1,4 @@
-# NODE - RESTFUL API's
+# User Signup, Signin RESTful API's are implemented in NodeJs using jsonwebtoken
 
 `npm install`
 
