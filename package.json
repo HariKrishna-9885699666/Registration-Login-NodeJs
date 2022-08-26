@@ -10,8 +10,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "NODE_ENV=production nodemon index.js",
-    "re-seed": "NODE_ENV=production npx sequelize db:drop && npx sequelize db:create && npx sequelize db:migrate && nodemon index.js"
+    "start": "NODE_ENV=production node index.js",
+    "re-seed": "NODE_ENV=production npx sequelize db:drop && npx sequelize db:create && npx sequelize db:migrate && node index.js"
   },
   "dependencies": {
     "@hapi/joi": "^15.0.3",
