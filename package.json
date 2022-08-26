@@ -33,7 +33,6 @@
     "winston-daily-rotate-file": "^3.5.1"
   },
   "devDependencies": {
-    "jsdoc": "^3.6.4",
-    "nodemon": "^1.18.6"
+    "jsdoc": "^3.6.4"
   }
 }
