@@ -1,4 +1,4 @@
-# User Signup, Signin RESTful API's are implemented in NodeJs using jsonwebtoken
+# User Signup, Signin RESTful API's are implemented in NodeJs (Express JS) using jsonwebtoken
 
 `npm install`
 
