@@ -1,6 +1,6 @@
 let envPath = ".env";
 
-if (process.env.NODE_ENV) {
+if (process.env.NODE_ENV !== 'production') {
   envPath += "." + process.env.NODE_ENV;
 }
 
