@@ -4,15 +4,9 @@
 
 `npm run re-seed`
 
-## Create Mutation
-![Screenshot1](https://img001.prntscr.com/file/img001/y4eiXKbOST2Z1m4jg9qbdw.png)
+## Registration API
+![Screenshot1](https://img001.prntscr.com/file/img001/ekT6UrvMTa6gg8f_5n0ahQ.png)
 )
 
-## Update Mutation
-![Screenshot1](https://img001.prntscr.com/file/img001/nXroN4ADTbmSA5R5j_pUUg.png)
-
-## Get Query
-![Screenshot1](https://img001.prntscr.com/file/img001/1wYyUkG5RzaicFvP9_ygGw.png)
-
-## Delete Mutation
-![Screenshot1](https://img001.prntscr.com/file/img001/Mkis6IUqTAK9-YD7QO1lpQ.png)
+## Login API
+![Screenshot1](https://img001.prntscr.com/file/img001/PKUDycH9TDiHmi9NxKk4zw.png)
