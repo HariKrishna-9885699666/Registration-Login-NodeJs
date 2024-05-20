@@ -5,7 +5,7 @@
 `npm run re-seed`
 
 ## Registration API
-![Screenshot1](https://img001.prntscr.com/file/img001/ekT6UrvMTa6gg8f_5n0ahQ.png)
+![Screenshot1](https://img001.prntscr.com/file/img001/F-6eJGyzRruzMcxMPvu-jA.png)
 )
 
 ## Login API
