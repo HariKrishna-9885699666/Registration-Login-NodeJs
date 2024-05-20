@@ -9,6 +9,7 @@ function handleDisconnect() {
     user: dbConfig.username,
     password: dbConfig.password,
     database: dbConfig.database,
+    port: dbConfig.mysqlPort
     //socketPath: '/Applications/MAMP/tmp/mysql/mysql.sock', //add this for mysql local instance
   });
 
